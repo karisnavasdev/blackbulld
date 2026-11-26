@@ -10,7 +10,7 @@ Recommended specs:
 - **Format:** MP4 (H.264)
 - **Resolution:** 1920×1080 or 1280×720
 - **Duration:** 15–30 seconds (loops automatically)
-- **Content:** Elon Musk / Solana → pump.fun → Black Bull → CT → billion-dollar money rain
+- **Content:** Elon Musk / Solana → pump.fun →  → CT → billion-dollar money rain
 
 The site uses `banner.png` as the video poster until the file loads.
 If `hero-bg.mp4` is missing, the built-in animated CSS scenes play instead.

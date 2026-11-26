@@ -1,4 +1,4 @@
-# BULLION — The First The Black Bull Billion Dollar
+# BULLION — 1 Trillion Dollar
 
 Single-page **paper / banknote** themed website for the **BULLION** meme token on Solana (pump.fun).
 
@@ -33,12 +33,12 @@ Replace placeholders in `CONFIG`:
 | `banner.png` | Community section + video poster |
 | `assets/hero-bg.mp4` | Optional AI cinematic background video |
 
-If no video is present, the hero plays an animated fallback (Solana → pump.fun → Black Bull → CT → 1T).
+If no video is present, the hero plays an animated fallback (Solana → pump.fun →  → CT → 1T).
 
 ## Generate the background video
 
 Use any AI video tool (Runway, Kling, Pika, etc.) with a prompt like:
 
-> Cinematic montage: Solana blockchain glow, pump.fun launch energy, black bull charging through neon city, crypto Twitter timeline on dark screen, money bills raining, Elon Musk silhouette with Black Bull billion-dollar currency, film grain, epic orchestral mood, 16:9
+> Cinematic montage: Solana blockchain glow, pump.fun launch energy, black bull charging through neon city, crypto Twitter timeline on dark screen, money bills raining, Elon Musk silhouette with  billion-dollar currency, film grain, epic orchestral mood, 16:9
 
 Save the output as `assets/hero-bg.mp4`.
