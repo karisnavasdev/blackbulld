@@ -8,7 +8,7 @@ const CONFIG = {
     buyAlt: "https://pump.fun",
     dexscreenerPage: "https://dexscreener.com/solana/bullpump",
     dexscreenerEmbed: "https://dexscreener.com/solana/bullpump?embed=1&loadChartSettings=0&chartLeftToolbar=0&chartTheme=dark&theme=dark&chartStyle=0&chartType=usd&interval=15",
-    twitter: "https://x.com/blackbulls_X",
+    twitter: "https://x.com/TrillionelonX",
     
   },
 };
