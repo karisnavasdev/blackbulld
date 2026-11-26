@@ -2,12 +2,12 @@
  * BULLION — edit these before launch
  */
 const CONFIG = {
-  contractAddress: "bullpump",
+  contractAddress: "HYFbbfv771xSRXyF2rRdf6eQzucLhrSHd2JkE12vpump",
   links: {
     buyPrimary: "https://pump.fun",
     buyAlt: "https://pump.fun",
-    dexscreenerPage: "https://dexscreener.com/solana/bullpump",
-    dexscreenerEmbed: "https://dexscreener.com/solana/bullpump?embed=1&loadChartSettings=0&chartLeftToolbar=0&chartTheme=dark&theme=dark&chartStyle=0&chartType=usd&interval=15",
+    dexscreenerPage: "https://dexscreener.com/solana/HYFbbfv771xSRXyF2rRdf6eQzucLhrSHd2JkE12vpump",
+    dexscreenerEmbed: "https://dexscreener.com/solana/HYFbbfv771xSRXyF2rRdf6eQzucLhrSHd2JkE12vpump?embed=1&loadChartSettings=0&chartLeftToolbar=0&chartTheme=dark&theme=dark&chartStyle=0&chartType=usd&interval=15",
     twitter: "https://x.com/TrillionelonX",
     
   },
