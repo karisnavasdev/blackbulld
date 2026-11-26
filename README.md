@@ -33,7 +33,7 @@ Replace placeholders in `CONFIG`:
 | `banner.png` | Community section + video poster |
 | `assets/hero-bg.mp4` | Optional AI cinematic background video |
 
-If no video is present, the hero plays an animated fallback (Solana → pump.fun → Black Bull → CT → BULLION).
+If no video is present, the hero plays an animated fallback (Solana → pump.fun → Black Bull → CT → 1T).
 
 ## Generate the background video
 
